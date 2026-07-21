@@ -9,8 +9,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://media1.tenor.com/m/PC5Y3vGG6rsAAAAd/alucard-castlevania.gif)"  />
-
+<img data-importer="image" align="right" height="150" src="assets/alucard-castlevania.gif" />
 ###
 
 <div data-importer="techs" align="left">

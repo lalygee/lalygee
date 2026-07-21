@@ -4,13 +4,17 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
-  stats:
+  build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Generate stats.svg
-        uses: jstrieb/github-stats@master
+      - uses: anuraghazra/github-readme-stats-action@v1
         with:
-          username: lalygee
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          output_branch: stats-output

@@ -1,0 +1,16 @@
+name: Generate Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate stats.svg
+        uses: jstrieb/github-stats@master
+        with:
+          username: lalygee
+          committer_token: ${{ secrets.GITHUB_TOKEN }}

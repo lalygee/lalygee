@@ -1,8 +1,8 @@
 <h2 data-importer="text" align="left">Hi 👋! My name is Laryssa</h2>
 
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lalygee&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalygee&layout=compact&theme=dracula" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/lalygee/lalygee/stats-output/stats.svg" height="150" alt="stats graph" />
+<img src="https://raw.githubusercontent.com/lalygee/lalygee/stats-output/top-langs.svg" height="150" alt="languages graph" />
 </div>
 
 <img data-importer="image" align="right" height="150" src="assets/alucard-castlevania.gif"  />

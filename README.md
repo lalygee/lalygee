@@ -1,8 +1,8 @@
 <h2 data-importer="text" align="left">Hi 👋! My name is Laryssa</h2>
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/lalygee/lalygee/stats-output/stats.svg" height="150" alt="stats graph" />
-<img src="https://raw.githubusercontent.com/lalygee/lalygee/stats-output/top-langs.svg" height="150" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/lalygee/lalygee/main/profile/stats.svg" height="150" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/lalygee/lalygee/main/profile/top-langs.svg" height="150" alt="languages graph" />
 </div>
 
 <img data-importer="image" align="right" height="150" src="assets/alucard-castlevania.gif"  />

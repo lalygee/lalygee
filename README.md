@@ -9,7 +9,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img data-importer="image" align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://media1.tenor.com/m/PC5Y3vGG6rsAAAAd/alucard-castlevania.gif)"  />
 
 ###
 
@@ -39,6 +39,10 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/lalygee/lalygee/snake-output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lalygee/lalygee/snake-output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lalygee/lalygee/snake-output/snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/lalygee/lalygee/snake-output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 ###
